@@ -1,11 +1,5 @@
-*.pyc
->>>>>>> da5eafd21d1c940d075d2bb51d327324903b97e9
-=======
 __pycache__/
 .venv/
 .pytest_cache/
 .DS_Store
 *.pyc
-=======
-*.pyc
->>>>>>> da5eafd21d1c940d075d2bb51d327324903b97e9
